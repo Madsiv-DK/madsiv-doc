@@ -1,5 +1,5 @@
-test
-====
+Go-to
+=====
 
 .. toctree::
    :maxdepth: 2
