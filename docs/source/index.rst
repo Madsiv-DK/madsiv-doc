@@ -1,19 +1,5 @@
 Welcome to Mads Iversen Tutorials's documentation!
 ==================================================
-Testing
-^^^^^^^^^^^^
-
-.. toctree::
-   :maxdepth: 2
-
-   usage
-   system-administration
+I'm going to be posting tutorials on installing and maintaining stuff, like system administration,gameservers and such. Want to know me? Goto madsiv.com
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
