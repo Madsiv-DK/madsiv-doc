@@ -5,6 +5,6 @@ test
    :maxdepth: 2
 
    index
-   usage
+   gamingservers
    system-administration
 
