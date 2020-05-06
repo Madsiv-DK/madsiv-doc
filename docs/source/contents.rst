@@ -6,5 +6,5 @@ Go-to
 
    index
    gamingservers
-   system-administration
+   System-Administration/system-administration
 

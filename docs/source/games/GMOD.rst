@@ -4,4 +4,4 @@ GMOD
 .. toctree::
    :glob:
 
-   how-to-gmod/fastdl
+   how-to-gmod/*
