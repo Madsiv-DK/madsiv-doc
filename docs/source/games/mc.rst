@@ -2,6 +2,6 @@ Minecraft
 =========
 
 .. toctree::
-   :maxdepth: 2
+   :glob:
 
-   how-to-mc/minecraft-java
+   how-to-mc/*
