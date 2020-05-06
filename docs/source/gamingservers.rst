@@ -6,5 +6,4 @@ Under this tab i will post some tutorials regarding game servers, CSGO, GMOD etc
    :maxdepth: 2
 
    GMOD
-   index
 
