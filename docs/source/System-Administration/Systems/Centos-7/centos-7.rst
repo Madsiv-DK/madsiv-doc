@@ -1,7 +1,8 @@
 CentOS 7
 =====================
 
-. toctree::
+.. toctree::
    :glob:
 
    how-to/*
+
